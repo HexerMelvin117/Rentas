@@ -10,7 +10,7 @@ namespace BL.Rentas
 {
     public class Contexto : DbContext
     {
-        public Contexto() : base("Video_Juegos")
+        public Contexto() : base("Video_Juegos1")
         {
 
         }
@@ -28,5 +28,6 @@ namespace BL.Rentas
         public DbSet<Usuario> Usuarios { get; set; }
         public DbSet<Tipo> Tipos { get; set; }
         public DbSet<Proveedor> Proveedores { get; set; }
+        public DbSet<Compras> Compras { get; set; }
     }
 }

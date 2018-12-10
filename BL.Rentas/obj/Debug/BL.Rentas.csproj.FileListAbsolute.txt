@@ -21,3 +21,15 @@ C:\Users\TUCO\Desktop\Rosales_Melvin_Acitividad4\Rentas\BL.Rentas\obj\Debug\BL.R
 C:\Users\TUCO\Desktop\Rosales_Melvin_Acitividad4\Rentas\BL.Rentas\obj\Debug\BL.Rentas.csproj.CopyComplete
 C:\Users\TUCO\Desktop\Rosales_Melvin_Acitividad4\Rentas\BL.Rentas\obj\Debug\BL.Rentas.dll
 C:\Users\TUCO\Desktop\Rosales_Melvin_Acitividad4\Rentas\BL.Rentas\obj\Debug\BL.Rentas.pdb
+C:\Users\TUCO\Desktop\Rosales_Melvin_Acitividad5\Rentas\BL.Rentas\bin\Debug\BL.Rentas.dll.config
+C:\Users\TUCO\Desktop\Rosales_Melvin_Acitividad5\Rentas\BL.Rentas\bin\Debug\BL.Rentas.dll
+C:\Users\TUCO\Desktop\Rosales_Melvin_Acitividad5\Rentas\BL.Rentas\bin\Debug\BL.Rentas.pdb
+C:\Users\TUCO\Desktop\Rosales_Melvin_Acitividad5\Rentas\BL.Rentas\bin\Debug\EntityFramework.dll
+C:\Users\TUCO\Desktop\Rosales_Melvin_Acitividad5\Rentas\BL.Rentas\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\TUCO\Desktop\Rosales_Melvin_Acitividad5\Rentas\BL.Rentas\bin\Debug\EntityFramework.xml
+C:\Users\TUCO\Desktop\Rosales_Melvin_Acitividad5\Rentas\BL.Rentas\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\TUCO\Desktop\Rosales_Melvin_Acitividad5\Rentas\BL.Rentas\obj\Debug\BL.Rentas.csprojAssemblyReference.cache
+C:\Users\TUCO\Desktop\Rosales_Melvin_Acitividad5\Rentas\BL.Rentas\obj\Debug\BL.Rentas.csproj.CoreCompileInputs.cache
+C:\Users\TUCO\Desktop\Rosales_Melvin_Acitividad5\Rentas\BL.Rentas\obj\Debug\BL.Rentas.csproj.CopyComplete
+C:\Users\TUCO\Desktop\Rosales_Melvin_Acitividad5\Rentas\BL.Rentas\obj\Debug\BL.Rentas.dll
+C:\Users\TUCO\Desktop\Rosales_Melvin_Acitividad5\Rentas\BL.Rentas\obj\Debug\BL.Rentas.pdb
